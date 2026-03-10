@@ -7,4 +7,4 @@ Verify logo redirects user to homepage.
 Verify exact product title appears in search results.
 
 ## HDR-06 - SQL Injection Handling
-Verify system handles malicious input safely.
+Verify system handles malicious input safely. 
